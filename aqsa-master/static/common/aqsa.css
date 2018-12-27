@@ -1,0 +1,46 @@
+/* Titles of pages */
+.navbar .navbar-brand {
+  color: #5e5e5e !important;
+  cursor: default;
+}
+/* Content block */
+.card-body {
+  margin-top: 15px;
+}
+/* Copyright */
+footer p {
+    margin-top: 5px;
+}
+/* Pagination form and "show me N rows" */
+form.inline-flex {
+  display: inline-flex;
+}
+/* Pagination */
+.float-left {
+  float: left;
+}
+/* All tables vertical-align */
+table.table td {
+  vertical-align: middle !important;
+}
+/* ### */
+.form-control {
+  height: auto !important;
+  width: auto !important;
+}
+.has-error .form-control {
+  border-color: #FF4A55;
+}
+/* ### */
+.card .table tbody td:last-child,
+.card .table thead th:last-child {
+  display: table-cell;
+}
+/* ### */
+.btn {
+  margin: 2px;
+}
+/* Descriptions of wallets, contacts */
+.wh-space-pre {
+  white-space: pre;
+}
